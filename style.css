@@ -1,0 +1,88 @@
+.header-font {
+		font-family: Impact, Monospace;
+	}
+
+	.small-image {
+		width: 250px;
+		height: 250px;
+	}
+	
+	.small-black-border {
+		border-width: 3px;
+		border-style: solid;
+		border-radius: 10px;
+		border-color: #090909;
+	}
+	
+	.small-margin {
+		margin: 5px;
+	}
+	
+	.even-row {
+		background-color: #131010;
+	}
+	.odd-row {
+		background-color: #121215;
+	}
+	
+	.light-text-header-yellow {
+		color: #999960;;
+	}
+	
+	.light-text-yellow {
+		color: #ffff90;
+	}
+	
+	.light-text-blue {
+		color: #9090ff;
+	}
+
+	.inset-infoSegment {
+		margin: 0px 55px 0px 5px;
+	}
+	
+	.inset-infoSegment-top {
+		border-radius: 20px 20px 0 0;
+	}
+	
+	.inset-infoSegment-bottom  {
+		border-radius: 0 0 20px 20px;
+	}
+	
+	.inset-textSegment {
+		margin-left: 15px;
+	}
+	
+	.inset-textFont {
+		font-family: Impact;
+	}
+	
+	#info-section-mid {
+		background-color: black;
+		padding: 5px 5px 10px 5px;
+	}
+	
+	#info-section-mid-title {
+		font-size: 42px;
+		color: #444411;
+	}
+	
+	#main-header {
+		font-size: 60px;
+		color: #4444f0;
+		margin-bottom: 60px;
+	}
+	
+	#intro-header {
+		font-size: 38px;
+		color: #336699;
+	}
+	
+	#main-background {
+		background-color: #111111;
+	}
+	
+	#sub-background {
+		background-color: #222222;
+		border-color: #111144;
+	}
