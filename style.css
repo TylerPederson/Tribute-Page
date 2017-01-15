@@ -1,7 +1,23 @@
-.header-font {
+	.header-font {
 		font-family: Impact, Monospace;
 	}
 
+	
+	.test1 {
+		background-color: green;
+	}
+	
+	.test2 {
+		background-color: purple;
+	}
+	
+	.test3 {
+		background-color: orange;
+	}
+	
+	
+	
+	
 	.small-image {
 		width: 250px;
 		height: 250px;
@@ -16,6 +32,11 @@
 	
 	.small-margin {
 		margin: 5px;
+	}
+	
+	.image-holder-div {
+		margin-left: 20px;
+		padding: 0px;
 	}
 	
 	.even-row {
@@ -38,7 +59,7 @@
 	}
 
 	.inset-infoSegment {
-		margin: 0px 55px 0px 5px;
+		margin: 0px 200px 0px 100px;
 	}
 	
 	.inset-infoSegment-top {
