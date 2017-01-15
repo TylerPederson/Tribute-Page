@@ -1,22 +1,6 @@
 	.header-font {
 		font-family: Impact, Monospace;
 	}
-
-	
-	.test1 {
-		background-color: green;
-	}
-	
-	.test2 {
-		background-color: purple;
-	}
-	
-	.test3 {
-		background-color: orange;
-	}
-	
-	
-	
 	
 	.small-image {
 		width: 250px;
@@ -77,7 +61,22 @@
 	.inset-textFont {
 		font-family: Impact;
 	}
+
+	.main-background {
+		background-color: #111111;
+	}
 	
+	.sub-background {
+		background-color: #222222;
+		border-color: #111144;
+	}
+	
+	.icon-right {
+		float: right;
+		margin-right: 5px;
+	}
+	
+		
 	#info-section-mid {
 		background-color: black;
 		padding: 5px 5px 10px 5px;
@@ -99,11 +98,16 @@
 		color: #336699;
 	}
 	
-	#main-background {
-		background-color: #111111;
+	#timeline-header {
+		font-size: 36px;
+		color: #336699;
 	}
 	
-	#sub-background {
-		background-color: #222222;
-		border-color: #111144;
+	#timeline-well {
+		margin: 25px 250px 25px 250px;
+	}
+	
+	#info-list{
+		color: #9090ff;
+		margin: 0 150px 0 150px;
 	}
